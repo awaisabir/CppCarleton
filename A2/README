@@ -1,0 +1,19 @@
+THIS ASSIGNMENT WAS WORKED ON BY THE FOLLOWING PARTNERS:
+- MUHAMMAD AWAIS QURESHI (100972618)
+- YIN YUEN LENG (100993814)
+
+PURPOSE: To modify the bookstore management program from either Assignment #1 or from the base code to store the courses in a linked list. Also to modify the “add course” feature, and add a “delete course” feature.
+
+SOURCE FILES: UImanager.cc, BMScontrol.cc, Dlist.cc, Course.cc, BookArray.cc, Book.cc, main.cc .
+HEADER FILES: UImanager.h, BMScontrol.h, Dlist.h, Course.h, BookArray.h, Book.h, defs.h .
+
+COMPILATION:
+
+- MOVE TO THE SPECIFIED FOLDER IN TERMINAL
+- TYPE make
+- TYPE ./a2
+
+- WHEN DONE WITH THE PROGRAM TYPE make clean
+
+
+
