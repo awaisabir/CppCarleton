@@ -15,3 +15,8 @@ My collection of what was done for COMP2404 (Intro to Software Engineering) at C
   
 #Assignment 3/A3
   
+  The purpose of this assignment was to add a new hierarchy based on an inheritence relationship, and overload operators in relation to the add, remove and print features of the bookstore management system.
+  
+#Assignment 4/A4
+
+  The purpose of this assignment was to implement a totally new feature of our choosing. The new feature had to use inheritence, polymorphism and overloading of operators.
