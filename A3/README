@@ -1,0 +1,20 @@
+THIS ASSIGNMENT WAS WORKED ON BY THE FOLLOWING PARTNERS:
+- MUHAMMAD AWAIS QURESHI (100972618)
+- YIN YUEN LENG (100993814)
+
+PURPOSE:  To modify the bookstore management program from Assignment #2 implement overloaded operators on some classes and establish an inheritance hierarchy of bookstore products.
+
+SOURCE FILES: UImanager.cc, BMScontrol.cc, Dlist.cc, Course.cc, BookArray.cc, Book.cc, BookstorInventory.cc, Technology.cc, Games.cc, Apparel.cc, main.cc.
+
+HEADER FILES: UImanager.h, BMScontrol.h, Dlist.h, Course.h, BookArray.h, Book.h, BookstoreInventory.h, Games.h, Apparel.h, Technology.h defs.h .
+
+COMPILATION:
+
+- MOVE TO THE SPECIFIED FOLDER IN TERMINAL
+- TYPE make
+- TYPE ./a3
+
+- WHEN DONE WITH THE PROGRAM TYPE make clean
+
+
+
